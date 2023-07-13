@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    font-size: 100px;
+    font-family: Arial;
+    color: white;
+    background-color: black;
+    margin-left: auto; 
+    margin-right: auto;
+}
+#godzina{
+    font-size: 200px;
+}
